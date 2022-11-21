@@ -16,7 +16,7 @@ Watch a 5 minutes walkthrough video:
 
 ## Try it out:
 1. Click on the following link
-  https://gitpod.io/#https://github.com/shaal/ddev-gitpod
+  https://gitpod.io/#https://github.com/oivanov/ddev-gitpod
 1. Your environment is being prepared, wait about 40 seconds (A splash screen will appear)
 1. VScode IDE will be displayed, a few seconds later you will see Umami demo.
 1. Run in terminal `ddev xdebug on`
